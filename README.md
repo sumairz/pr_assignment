@@ -1,4 +1,4 @@
-# pr_assignment
+# Mod-Three-with-Automata
 
 ## Overview
 
